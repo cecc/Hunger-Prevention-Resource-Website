@@ -62,19 +62,19 @@ include ('../../header.php');
           <img class="img-circle" width="140px" height="140px" src="IMG_0532.jpg" alt="Generic placeholder image">
           <h2>Heading</h2>
           <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="#row1" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" width="140px" height="140px" src="IMG_0528.JPG" alt="Generic placeholder image">
           <h2>Heading</h2>
           <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="#row2" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
           <h2>Heading</h2>
           <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="#row3" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
@@ -83,7 +83,7 @@ include ('../../header.php');
 
       <hr class="featurette-divider">
 
-      <div class="row featurette">
+      <div class="row featurette" id="row1">
         <div class="col-md-7">
           <h2 class="featurette-heading">Our Fearless Leaders <span class="text-muted">Acting Director: Vivian Lanzot. Coordinator: Paul Rajah</span></h2>
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
@@ -95,7 +95,7 @@ include ('../../header.php');
 
       <hr class="featurette-divider">
 
-      <div class="row featurette">
+      <div class="row featurette" id="row2">
         <div class="col-md-5">
           <img class="featurette-image img-responsive" src="IMG_0534.JPG" alt="Generic placeholder image">
         </div>
@@ -107,7 +107,7 @@ include ('../../header.php');
 
       <hr class="featurette-divider">
 
-      <div class="row featurette">
+      <div class="row featurette" id="row3">
         <div class="col-md-7">
           <h2 class="featurette-heading">Our Students <span class="text-muted">Checkmate.</span></h2>
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
