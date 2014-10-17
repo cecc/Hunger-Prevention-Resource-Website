@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>CECC - Summer 2014</title>
+    <title>CECC - End Hunger NJ</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -51,7 +51,7 @@ $(document).ready(function(){
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">Community Partners</a></li>
+            <li><a href="http://cecc.njit.edu/su14/welcome.php">Community Partners</a></li>
             <li><a href="#">Donate</a></li>
             
 
