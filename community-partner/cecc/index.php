@@ -101,7 +101,7 @@ include ('../../header.php');
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">IT Mentoring <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <p class="lead">Our IT mentoring program allows us to work hands on with the organizations to ensure ease of use when handing off the final product to them. It also creates an opportunity to teach and learn new computer skills as well as improving the communication skills of our students.</p>
         </div>
       </div>
 
