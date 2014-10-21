@@ -110,7 +110,22 @@ include ('../../header.php');
       <div class="row featurette" id="row3">
         <div class="col-md-7">
           <h2 class="featurette-heading">Contact Us <span class="text-muted"></span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <p class="lead"><form class="contact_form" action="email.php" method="post" style="height: 300px">
+                        
+                        <label>Name:      </label>
+                        <input type="text" name="name" required=""><br><br>
+                        <label>Email:    </label>
+                        <input type="text" name="email" required=""><br><br>
+                        
+                        <label>Subject:</label>
+                        <input type="text" name="subject" required=""><br><br>
+                        
+                        <label>Message:</label><br><br>
+                        <textarea name="message" style="width: 240px; height: 85px">	                        
+	                        
+                        </textarea><br><br>
+                        <input type="submit" name="send" id="send" style="width: 80px; height: 20px">
+                </form></p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" src="IMG_0771.JPG" alt="Generic placeholder image">
