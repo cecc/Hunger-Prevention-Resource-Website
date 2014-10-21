@@ -86,7 +86,7 @@ include ('../../header.php');
       <div class="row featurette" id="row1">
         <div class="col-md-7">
           <h2 class="featurette-heading">Our Fearless Leaders <span class="text-muted">Acting Director: Vivian Lanzot. Coordinator: Paul Rajah</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <p class="lead">With great teamwork there’s great leadership. Vivian Lanzot and Paul Rajah are the backbone and the minds that make the work created by the CECC possible. They provide the direction which allows the students to apply their skills and knowledge. </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image">
