@@ -60,7 +60,7 @@ include ('../../header.php');
       <div class="row">
         <div class="col-lg-4">
           <a href="#row1"><img class="img-circle" width="140px" height="140px" src="partnership_glyph.png" alt="Generic placeholder image"></a>
-          <h2>Who We Are</h2>
+          <h2>Who' Involved</h2>
           <p>We are the NJIT Civic Engagment Computer Center a division of the Career Development Services</p>
           <p><a class="btn btn-primary" href="#row1" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
@@ -72,7 +72,7 @@ include ('../../header.php');
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <a href="#row3"><img class="img-circle" width="140px" height="140px" src="social_media_glyph.png" alt="Generic placeholder image"></a>
-          <h2>How to Get in Touch</h2>
+          <h2>Contact Us</h2>
           <p>You may be able to contact us by phone at (973) 596-5401 or by email.</p>
           <p><a class="btn btn-primary" href="#row3" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
@@ -85,8 +85,8 @@ include ('../../header.php');
 
       <div class="row featurette" id="row1">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Our Fearless Leaders <span class="text-muted">Acting Director: Vivian Lanzot. Coordinator: Paul Rajah</span></h2>
-          <p class="lead">With great teamwork there’s great leadership. Vivian Lanzot and Paul Rajah are the backbone and the minds that make the work created by the CECC possible. They provide the direction which allows the students to apply their skills and knowledge. </p>
+          <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Students</span></h2>
+          <p class="lead">As a service to the community, The Civic Engagement Computer Center at NJIT (CECC @NJIT) provides quality information technology (IT) solutions to non-profit organizations and schools in the northern NJ area. The IT sector is moving at a rapid pace, one which organizations must keep pace with in order to survive in today's technology driven environment. </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image">
@@ -100,8 +100,8 @@ include ('../../header.php');
           <img class="featurette-image img-responsive" src="IMG_0534.JPG" alt="Generic placeholder image">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">IT Mentoring <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Our IT mentoring program allows us to work hands on with the organizations to ensure ease of use when handing off the final product to them. It also creates an opportunity to teach and learn new computer skills as well as improving the communication skills of our students.</p>
+          <h2 class="featurette-heading">What We Do <span class="text-muted">See for yourself.</span></h2>
+          <p class="lead">We provide various services such as web design, IT mentoring and computer training. Not only do we provide service to organizations we also to students of NJIT through senior capstone involvement and creating a great place or volunteering. </p>
         </div>
       </div>
 
