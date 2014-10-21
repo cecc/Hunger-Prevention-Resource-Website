@@ -14,12 +14,12 @@ include ('../../header.php');
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="IMG_0562.JPG" alt="First slide">
+          <img src="IMG_0563.JPG" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+              <h1>Welcome to the CECC</h1>
+              <p>provide IT solutions for non-profits</p>
+              <p><a class="btn btn-lg btn-default" href="#" role="button">Sign up today</a></p>
             </div>
           </div>
         </div>
@@ -27,9 +27,9 @@ include ('../../header.php');
           <img src="IMG_0531.JPG" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+              <h1>IT mentoring</h1>
+              <p>mentorship for those who are not techinically inclined</p>
+              <p><a class="btn btn-lg btn-default" href="#" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -37,9 +37,9 @@ include ('../../header.php');
           <img src="IMG_0541.JPG" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+              <h1>Giving Back to the Community</h1>
+              <p>a good place to become a good citizen</p>
+              <p><a class="btn btn-lg btn-default" href="#" role="button">Browse gallery</a></p>
             </div>
           </div>
         </div>
@@ -59,22 +59,22 @@ include ('../../header.php');
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img class="img-circle" width="140px" height="140px" src="IMG_0532.jpg" alt="Generic placeholder image">
-          <h2>Who We Are ...</h2>
-          <p>We are the New Jersey Institute of Technology Civic Engagment Computer Center a division of the Career Development Services</p>
-          <p><a class="btn btn-default" href="#row1" role="button">View details &raquo;</a></p>
+          <a href="#row1"><img class="img-circle" width="140px" height="140px" src="partnership_glyph.png" alt="Generic placeholder image"></a>
+          <h2>Who We Are</h2>
+          <p>We are the NJIT Civic Engagment Computer Center a division of the Career Development Services</p>
+          <p><a class="btn btn-primary" href="#row1" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" width="140px" height="140px" src="IMG_0528.JPG" alt="Generic placeholder image">
-          <h2>What We Do...</h2>
+          <a href="#row2"><img class="img-circle" width="140px" height="140px" src="website_glyph.png" alt="Generic placeholder image"></a>
+          <h2>What We Do</h2>
           <p>We create websites for non-profit organizations who need to have an internet presence</p>
-          <p><a class="btn btn-default" href="#row2" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-primary" href="#row2" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <a href="#row3"><img class="img-circle" width="140px" height="140px" src="social_media_glyph.png" alt="Generic placeholder image"></a>
           <h2>How to Get in Touch</h2>
           <p>You may be able to contact us by phone at (973) 596-5401 or by email.</p>
-          <p><a class="btn btn-default" href="#row3" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-primary" href="#row3" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
