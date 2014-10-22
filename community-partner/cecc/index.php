@@ -60,7 +60,7 @@ include ('../../header.php');
       <div class="row">
         <div class="col-lg-4">
           <a href="#row1"><img class="img-circle" width="140px" height="140px" src="partnership_glyph.png" alt="Generic placeholder image"></a>
-          <h2>Who' Involved</h2>
+          <h2>Who's Involved</h2>
           <p>We are the NJIT Civic Engagment Computer Center a division of the Career Development Services</p>
           <p><a class="btn btn-primary" href="#row1" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
