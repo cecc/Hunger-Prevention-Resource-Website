@@ -21,8 +21,10 @@ include ('../../header.php');
           <img src="IMG_0550.JPG" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Welcome to the CECC</h1>
-              <p>provide IT solutions for non-profits</p>
+              <h1>United Community Corporation</h1>
+              <p>We at UCC are dedicated to servicing the Newark community through our comprehensive list of programs 
+              developed to address our client’s needs. Our programs are designed to enable low-income families and individuals 
+              of all ages the opportunity to attain the skills, knowledge and motivation necessary to gain economic equality.</p>
               <p><a class="btn btn-lg btn-default" href="#" role="button">Sign up today</a></p>
             </div>
           </div>
@@ -31,8 +33,30 @@ include ('../../header.php');
           <img src="IMG_0531.JPG" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>IT Mentoring</h1>
-              <p>mentorship for those who are not techinically inclined</p>
+              <h1>Emergency Services</h1>
+              
+              <h3>Food Pantry</h3>
+              <p>The Food Pantry is a UCC food assistance program developed to help individuals and families in need keep food on their tables. 
+              Qualified applicants will receive an allocated amount of groceries based on family composition up to twice a year.</p>
+              
+              <h3>Homeless Shelter</h3>
+              <p>For those in need of temporary housing, UCC operates an emergency shelter program. The facility houses 60 
+              individuals for up to a 30-day period. Residents will have access to voluntary counseling, 
+              employment and health care referral services during their stay.</p>
+              
+              <h3>Clothes Closet</h3>
+              <p>Community residents in need of clothing can visit the UCC Clothes Closet to receive donated clothing . 
+              We only accept clean, ready to wear garments from our donors. Please note that clothing articles 
+              are available on a first come, first serve basis.</p>
+
+
+
+
+
+              
+              
+              
+              
               <p><a class="btn btn-lg btn-default" href="#" role="button">Learn more</a></p>
             </div>
           </div>
