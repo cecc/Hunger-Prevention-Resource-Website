@@ -21,7 +21,7 @@ include ('../../header.php');
           <img src="IMG_0550.JPG" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Welcome to the CECC</h1>
+              <h1>Focus</h1>
               <p>provide IT solutions for non-profits</p>
               <p><a class="btn btn-lg btn-default" href="#" role="button">Sign up today</a></p>
             </div>
@@ -31,8 +31,9 @@ include ('../../header.php');
           <img src="IMG_0531.JPG" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>IT Mentoring</h1>
-              <p>mentorship for those who are not techinically inclined</p>
+              <h1>Human Service Divsion </h1>
+              <p>The FOCUS Human Services Division provides an array of services to Essex and Hudson County Residents which include adult basic education, employment & training services, senior's services, emergency assistance, and nutrition programs, The objective of the division 
+              is to provide the members of our community the tools needed to empower, help grow, and become self-sufficient.</p>
               <p><a class="btn btn-lg btn-default" href="#" role="button">Learn more</a></p>
             </div>
           </div>
