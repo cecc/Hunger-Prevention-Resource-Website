@@ -29,9 +29,10 @@ include ('header.php');
           </div>
           <div class="row">
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>SAMPLE - Civic Engagement Computer Center</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn btn-default" href="community-partner/cecc" role="button">View CECC &raquo;</a></p>
+              <h2>FOCUS</h2>
+              <p>The FOCUS Human Services Division provides an array of services to Essex and
+              Hudson County Residents which include adult basic education, employment & training services, senior's services, emergency assistance, and nutrition programs, The objective of the division is to provide the members of our community the tools needed to empower, help grow, and become self-sufficient.</p>
+              <p><a class="btn btn-default" href="http://cecc.njit.edu/projects/1314/focus411/index.html" role="button">View Details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>Community Organization 2</h2>
@@ -79,7 +80,7 @@ include ('header.php');
         	<img src="images/Just_NJ.png" width="220px" />
         
           <div class="list-group">
-            <a href="#" class="list-group-item active">Community Organization 1</a>
+            <a href="http://cecc.njit.edu/projects/1314/focus411/index.html" class="list-group-item active">FOCUS</a>
             <a href="#" class="list-group-item">Community Organization 2</a>
             <a href="#" class="list-group-item">Community Organization 3</a>
             <a href="#" class="list-group-item">Community Organization 4</a>
