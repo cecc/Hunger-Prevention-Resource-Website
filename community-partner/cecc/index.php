@@ -3,6 +3,10 @@
 include ('../../header.php');
 ?>
 
+<style>
+
+</style>
+
     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -14,7 +18,7 @@ include ('../../header.php');
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="IMG_0563.JPG" alt="First slide">
+          <img src="IMG_0550.JPG" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Welcome to the CECC</h1>
@@ -27,7 +31,7 @@ include ('../../header.php');
           <img src="IMG_0531.JPG" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>IT mentoring</h1>
+              <h1>IT Mentoring</h1>
               <p>mentorship for those who are not techinically inclined</p>
               <p><a class="btn btn-lg btn-default" href="#" role="button">Learn more</a></p>
             </div>
@@ -97,7 +101,7 @@ include ('../../header.php');
 
       <div class="row featurette" id="row2">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0534.JPG" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="IMG_2360.JPG" alt="Generic placeholder image">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">What We Do <span class="text-muted">See for yourself.</span></h2>
@@ -110,21 +114,30 @@ include ('../../header.php');
       <div class="row featurette" id="row3">
         <div class="col-md-7">
           <h2 class="featurette-heading">Contact Us <span class="text-muted"></span></h2>
-          <p class="lead"><form class="contact_form" action="email.php" method="post" style="height: 300px">
-                        
-                        <label>Name:      </label>
-                        <input type="text" name="name" required=""><br><br>
-                        <label>Email:    </label>
-                        <input type="text" name="email" required=""><br><br>
-                        
-                        <label>Subject:</label>
-                        <input type="text" name="subject" required=""><br><br>
-                        
-                        <label>Message:</label><br><br>
-                        <textarea name="message" style="width: 240px; height: 85px">	                        
-	                        
-                        </textarea><br><br>
-                        <input type="submit" name="send" id="send" style="width: 80px; height: 20px">
+          
+          
+          <p class="lead">We want to hear from you. Your concerns comments and suggestions. </p>
+          <p>
+          
+          <form role="form">    
+		  <div class="form-group">
+		    <label for="exampleInputEmail1">Full Name</label>
+		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter full name.">
+		  </div>
+          <div class="form-group">
+		    <label for="exampleInputEmail1">Email</label>
+		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter valid email address.">
+		  </div>
+          <div class="form-group">
+		    <label for="exampleInputEmail1">Subject</label>
+		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter the subject of your message.">
+		  </div>
+          <div class="form-group">
+		    <label for="exampleInputEmail1">Message</label><br>
+		    <textarea placeholder="Enter your message." cols="50" rows="10"> </textarea>
+		  </div>
+      <button type="button" class="btn btn-primary btn-lg">Send Message</button>	         
+   
                 </form></p>
         </div>
         <div class="col-md-5">
