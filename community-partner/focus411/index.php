@@ -22,8 +22,18 @@ include ('../../header.php');
           <div class="container">
             <div class="carousel-caption">
               <h1>Focus</h1>
-              <p>provide IT solutions for non-profits</p>
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Sign up today</a></p>
+              
+              <p>Services</p>
+              
+          <p>FOCUS programs are structured under two divisions, Human Services and Youth and Family Development. 
+          The Human Services Division provides adult education, employment and training, senior-citizen 
+          programs, emergency assistance, health and nutrition programs and adult protective services. 
+          The objective of the division is to provide members of our community with the tools necessary for empowerment, growth, 
+          and self-sufficiency.
+
+         The Youth and Family Development Division provides educational services for children before and after school, 
+         and during the summer months. It provides counseling for families and children, parenting workshops, 
+          and referral services to families requiring temporary support, such as food, utility and housing assistance.</a></p>
             </div>
           </div>
         </div>
@@ -31,20 +41,29 @@ include ('../../header.php');
           <img src="IMG_0531.JPG" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Human Service Divsion </h1>
-              <p>The FOCUS Human Services Division provides an array of services to Essex and Hudson County Residents which include adult basic education, employment & training services, senior's services, emergency assistance, and nutrition programs, The objective of the division 
-              is to provide the members of our community the tools needed to empower, help grow, and become self-sufficient.</p>
+              
+        <h1>Human Service Divsion </h1>
+        <p>The FOCUS Human Services Division provides an array of services to Essex and Hudson County Residents 
+        which include adult basic education, employment & training services, senior's services, emergency assistance, 
+        and nutrition programs, The objective of the division is to provide the members of our community the tools 
+        needed to empower, help grow, and become self-sufficient.</p>
+              
               <p><a class="btn btn-lg btn-default" href="#" role="button">Learn more</a></p>
             </div>
           </div>
-        </div>
-        <div class="item">
+            </div>
+           <div class="item">
           <img src="IMG_0541.JPG" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Giving Back to the Community</h1>
-              <p>a good place to become a good citizen</p>
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Browse gallery</a></p>
+              
+         <h1>Youth and Family Division </h1>
+              <p>The FOCUS Youth and Family Development Programs provide quality educational services for children 
+              during afterschool hours, and during the summer months. It offers families with access to information, support and resources that help develop 
+              and maximize their strengths and potential. The objective of the division is to provide youth & families
+              with enriching experiences that broaden their perspectives, improve their socialization, 
+              and enhance their skills to improve their overall quality of life.</p>
+              
             </div>
           </div>
         </div>
