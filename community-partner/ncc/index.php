@@ -106,7 +106,7 @@ include ('../../header.php');
       <div class="row featurette" id="row1">
         <div class="col-md-7">
           <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Students</span></h2>
-          <p class="lead">As a service to the community, The Civic Engagement Computer Center at NJIT (CECC @NJIT) provides quality information technology (IT) solutions to non-profit organizations and schools in the northern NJ area. The IT sector is moving at a rapid pace, one which organizations must keep pace with in order to survive in today's technology driven environment. </p>
+          <p class="lead">To help residents of inner cities improve the quality of their lives to reflect individual God-given dignity and personal achievement.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image">
@@ -121,7 +121,7 @@ include ('../../header.php');
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">What We Do <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">We provide various services such as web design, IT mentoring and computer training. Not only do we provide service to organizations we also to students of NJIT through senior capstone involvement and creating a great place or volunteering. </p>
+          <p class="lead">As  one of the largest and most comprehensive community development corporations in the United States, New Community’s success rests on its comprehensive approach to community development. It is active in housing, health care, education, training, childcare and economic development.</p>
         </div>
       </div>
 
