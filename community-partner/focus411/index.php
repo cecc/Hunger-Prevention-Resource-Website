@@ -78,7 +78,10 @@ include ('../../header.php');
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container marketing">
-
+	<div class="container marketing">
+    	<div class="overview" style="margin-bottom:80px;">
+    	<p style="font-size:20px;">In continuation of the university's efforts to address the "digital divide", the mission of the CECC is to support the technological needs of community based organizations and schools. The CECC@NJIT is committed to strengthening the technological capacity of area schools and community-based non-profit organizations. This goal will be accomplished to their needs, but also through education and extended service.</p>
+	</div>
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
