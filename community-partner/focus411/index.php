@@ -48,7 +48,6 @@ include ('../../header.php');
         and nutrition programs, The objective of the division is to provide the members of our community the tools 
         needed to empower, help grow, and become self-sufficient.</p>
               
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Learn more</a></p>
             </div>
           </div>
             </div>
@@ -85,19 +84,19 @@ include ('../../header.php');
         <div class="col-lg-4">
           <a href="#row1"><img class="img-circle" width="140px" height="140px" src="partnership_glyph.png" alt="Generic placeholder image"></a>
           <h2>Who's Involved</h2>
-          <p>We are the NJIT Civic Engagment Computer Center a division of the Career Development Services</p>
+          <p>We are FOCUS411 an hispanic community organization</p>
           <p><a class="btn btn-primary" href="#row1" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <a href="#row2"><img class="img-circle" width="140px" height="140px" src="website_glyph.png" alt="Generic placeholder image"></a>
           <h2>What We Do</h2>
-          <p>We create websites for non-profit organizations who need to have an internet presence</p>
+          <p>provide Hispanics on how to prepare to capitalize on that growth and become a more significant contributor to mainstream America.e</p>
           <p><a class="btn btn-primary" href="#row2" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <a href="#row3"><img class="img-circle" width="140px" height="140px" src="social_media_glyph.png" alt="Generic placeholder image"></a>
           <h2>Contact Us</h2>
-          <p>You may be able to contact us by phone at (973) 596-5401 or by email.</p>
+          <p>You may be able to contact us by phone at (973)624-2528 or by email.</p>
           <p><a class="btn btn-primary" href="#row3" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
@@ -109,8 +108,8 @@ include ('../../header.php');
 
       <div class="row featurette" id="row1">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Students</span></h2>
-          <p class="lead">As a service to the community, The Civic Engagement Computer Center at NJIT (CECC @NJIT) provides quality information technology (IT) solutions to non-profit organizations and schools in the northern NJ area. The IT sector is moving at a rapid pace, one which organizations must keep pace with in order to survive in today's technology driven environment. </p>
+          <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Staff</span></h2>
+          <p class="lead">Our mission is to provide community leadership by developing a variety of services of health and human development initiatives which advances the community towards self sufficiency, growth, empowerment, and a better quality of life.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image">
