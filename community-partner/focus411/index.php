@@ -84,19 +84,19 @@ include ('../../header.php');
         <div class="col-lg-4">
           <a href="#row1"><img class="img-circle" width="140px" height="140px" src="partnership_glyph.png" alt="Generic placeholder image"></a>
           <h2>Who's Involved</h2>
-          <p>We are the NJIT Civic Engagment Computer Center a division of the Career Development Services</p>
+          <p>We are FOCUS411 an hispanic community organization</p>
           <p><a class="btn btn-primary" href="#row1" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <a href="#row2"><img class="img-circle" width="140px" height="140px" src="website_glyph.png" alt="Generic placeholder image"></a>
           <h2>What We Do</h2>
-          <p>We create websites for non-profit organizations who need to have an internet presence</p>
+          <p>provide Hispanics on how to prepare to capitalize on that growth and become a more significant contributor to mainstream America.e</p>
           <p><a class="btn btn-primary" href="#row2" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <a href="#row3"><img class="img-circle" width="140px" height="140px" src="social_media_glyph.png" alt="Generic placeholder image"></a>
           <h2>Contact Us</h2>
-          <p>You may be able to contact us by phone at (973) 596-5401 or by email.</p>
+          <p>You may be able to contact us by phone at (973)624-2528 or by email.</p>
           <p><a class="btn btn-primary" href="#row3" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
