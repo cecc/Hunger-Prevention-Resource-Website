@@ -71,7 +71,7 @@ include ('header.php');
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>CECC</h2>
               <p>The Civic Engagement Computer Center at NJIT is a student-staffed resource of technical computer support through virtual volunteer projects for community agencies. Established in 2002 with a $10,000 donation from Lucent Technologies, Inc., the Center provides an avenue for NJIT students to connect their academics skills with civic engagement experience.</p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              <p><a class="btn btn-default" href="community-partner/cecc/index.php" role="button">View details &raquo;</a></p>
             </div><!--/span-->
           </div><!--/row-->
         </div><!--/span-->
