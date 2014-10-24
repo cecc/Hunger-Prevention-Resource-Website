@@ -35,13 +35,13 @@ include ('header.php');
               <p><a class="btn btn-default" href="http://cecc.njit.edu/projects/1314/focus411/index.html" role="button">View Details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>Community Organization 2</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <h2>United Community Corporation</h2>
+              <p>We at UCC are dedicated to servicing the Newark community through our comprehensive list of programs developed to address our client’s needs. Our programs are designed to enable low-income families and individuals of all ages the opportunity to attain the skills, knowledge and motivation necessary to gain economic equality. </p>
               <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>Community Organization 3</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <h2>New Community Corporation</h2>
+              <p>New Community Corporation (NCC) is recognized as one of the largest, most comprehensive community development corporations in the U.S. We have been at the vanguard of providing safe, decent and attractive housing for low-income residents for more than 45 years. Our vast array of services are provided "Under One Roof" and reach every stage of life. We offer a one-stop resource center, early childhood development, youth services, workforce training, adult continuing education, family transitional housing, food pantry, mental health services, extended care for seniors, a community newspaper and arts and cultural events. </p>
               <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
@@ -69,8 +69,8 @@ include ('header.php');
               <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>Community Organization 9</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <h2>CECC</h2>
+              <p>The Civic Engagement Computer Center at NJIT is a student-staffed resource of technical computer support through virtual volunteer projects for community agencies. Established in 2002 with a $10,000 donation from Lucent Technologies, Inc., the Center provides an avenue for NJIT students to connect their academics skills with civic engagement experience.</p>
               <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div><!--/span-->
           </div><!--/row-->
@@ -81,8 +81,8 @@ include ('header.php');
         
           <div class="list-group">
             <a href="http://cecc.njit.edu/projects/1314/focus411/index.html" class="list-group-item active">FOCUS</a>
-            <a href="#" class="list-group-item">Community Organization 2</a>
-            <a href="#" class="list-group-item">Community Organization 3</a>
+            <a href="http://www.uccnewark.org/" class="list-group-item">United Community Corporation</a>
+            <a href="http://www.newcommunity.org/" class="list-group-item">New Community Corporation</a>
             <a href="#" class="list-group-item">Community Organization 4</a>
             <a href="#" class="list-group-item">Community Organization 5</a>
             <a href="#" class="list-group-item">Community Organization 6</a>
