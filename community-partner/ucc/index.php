@@ -113,7 +113,7 @@ include ('../../header.php');
 
       <div class="row featurette" id="row1">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Students</span></h2>
+          <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Staff</span></h2>
           <p class="lead">Guided by service, compassion and fairness, UCC’s mission is to assist low-income, disadvantaged and at risk individuals and families including seniors and youth, to become self-sufficient and self supporting; while enhancing their quality of life and standard of living. </p>
         </div>
         <div class="col-md-5">
