@@ -83,7 +83,6 @@ include ('../../header.php');
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container marketing">
-	<div class="container marketing">
     	<div class="overview" style="margin-bottom:80px;">
     	<p style="font-size:20px;">IGuided by service, compassion and fairness, UCC’s mission is to assist low-income, disadvantaged and at risk individuals and families including seniors and youth, to become self-sufficient and self supporting; while enhancing their quality of life and standard of living.</p>
 	</div>
