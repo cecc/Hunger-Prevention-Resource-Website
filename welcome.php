@@ -32,7 +32,7 @@ include ('header.php');
               <h2>FOCUS</h2>
               <p>The FOCUS Human Services Division provides an array of services to Essex and
               Hudson County Residents which include adult basic education, employment & training services, senior's services, emergency assistance, and nutrition programs, The objective of the division is to provide the members of our community the tools needed to empower, help grow, and become self-sufficient.</p>
-              <p><a class="btn btn-default" href="http://cecc.njit.edu/projects/1314/focus411/index.html" role="button">View Details &raquo;</a></p>
+              <p><a class="btn btn-default" href="community-partner/focus411/index.php" role="button">View Details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>Community Organization 2</h2>
