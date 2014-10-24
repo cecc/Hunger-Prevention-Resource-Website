@@ -37,12 +37,12 @@ include ('header.php');
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>United Community Corporation</h2>
               <p>We at UCC are dedicated to servicing the Newark community through our comprehensive list of programs developed to address our client’s needs. Our programs are designed to enable low-income families and individuals of all ages the opportunity to attain the skills, knowledge and motivation necessary to gain economic equality. </p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              <p><a class="btn btn-default" href="community-partner/ucc/index.php" role="button">View details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>New Community Corporation</h2>
               <p>New Community Corporation (NCC) is recognized as one of the largest, most comprehensive community development corporations in the U.S. We have been at the vanguard of providing safe, decent and attractive housing for low-income residents for more than 45 years. Our vast array of services are provided "Under One Roof" and reach every stage of life. We offer a one-stop resource center, early childhood development, youth services, workforce training, adult continuing education, family transitional housing, food pantry, mental health services, extended care for seniors, a community newspaper and arts and cultural events. </p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              <p><a class="btn btn-default" href="community-partner/ncc/index.php" role="button">View details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>Community Organization 4</h2>
