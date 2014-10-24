@@ -48,7 +48,6 @@ include ('../../header.php');
         and nutrition programs, The objective of the division is to provide the members of our community the tools 
         needed to empower, help grow, and become self-sufficient.</p>
               
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Learn more</a></p>
             </div>
           </div>
             </div>
