@@ -80,9 +80,9 @@ include ('header.php');
         	<img src="images/Just_NJ.png" width="220px" />
         
           <div class="list-group">
-            <a href="http://cecc.njit.edu/projects/1314/focus411/index.html" class="list-group-item active">FOCUS</a>
-            <a href="http://www.uccnewark.org/" class="list-group-item">United Community Corporation</a>
-            <a href="http://www.newcommunity.org/" class="list-group-item">New Community Corporation</a>
+            <a href="community-partner/focus411/index.php" class="list-group-item active">FOCUS</a>
+            <a href="community-partner/ucc/index.php" class="list-group-item">United Community Corporation</a>
+            <a href="community-partner/ncc/index.php" class="list-group-item">New Community Corporation</a>
             <a href="#" class="list-group-item">Community Organization 4</a>
             <a href="#" class="list-group-item">Community Organization 5</a>
             <a href="#" class="list-group-item">Community Organization 6</a>
