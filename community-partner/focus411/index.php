@@ -108,8 +108,8 @@ include ('../../header.php');
 
       <div class="row featurette" id="row1">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Students</span></h2>
-          <p class="lead">As a service to the community, The Civic Engagement Computer Center at NJIT (CECC @NJIT) provides quality information technology (IT) solutions to non-profit organizations and schools in the northern NJ area. The IT sector is moving at a rapid pace, one which organizations must keep pace with in order to survive in today's technology driven environment. </p>
+          <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Staff</span></h2>
+          <p class="lead">Our mission is to provide community leadership by developing a variety of services of health and human development initiatives which advances the community towards self sufficiency, growth, empowerment, and a better quality of life.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image">
