@@ -37,7 +37,7 @@ $(document).ready(function(){
   </head>
 
   <body>
-  <div class="disclaimer" style="padding-top: 10px; width:100%; background-color:yellow; color:red; height: 50px; text-align:center;">This is a testing site</div>
+  <div class="disclaimer" style="padding-top: 10px; width:100%; background-color:yellow; color:red; height: 50px; text-align:center;">This is a testing site ------ Site under construction. All information pending approval</div>
     <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
       <div class="container">
         <div class="navbar-header">
