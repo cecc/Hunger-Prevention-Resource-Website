@@ -37,6 +37,7 @@ $(document).ready(function(){
   </head>
 
   <body>
+  <div class="disclaimer" style="width:100%; background-color:yellow; color:red; height: 40px; text-align:center;">This is a testing site</div>
     <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
       <div class="container">
         <div class="navbar-header">
