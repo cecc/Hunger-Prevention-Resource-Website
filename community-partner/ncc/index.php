@@ -5,7 +5,7 @@ include ('../../header.php');
 
 <style>
 
-</style>
+</style>https://github.com/cecc/new_site/edit/master/community-partner/ncc/index.php#fullscreen
 
     <!-- Carousel
     ================================================== -->
@@ -21,14 +21,7 @@ include ('../../header.php');
           <img src="IMG_0550.JPG" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>New Community Corporation</h1>
-              <p>New Community Corporation (NCC) is recognized as one of the largest, most comprehensive community development 
-              corporations in the U.S. We have been at the vanguard of providing safe, decent and attractive housing for 
-              low-income residents for more than 45 years. Our vast array of services are provided "Under One Roof" 
-              and reach every stage of life. We offer a one-stop resource center, early childhood development, youth services, workforce 
-              training, adult continuing education, family transitional housing, 
-              food pantry, mental health services, extended care for seniors, a community newspaper and arts and cultural events.</p>
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Sign up today</a></p>
+              <h1>welcome to New Community Corporation</h1>
             </div>
           </div>
         </div>
@@ -37,19 +30,6 @@ include ('../../header.php');
           <div class="container">
             <div class="carousel-caption">
               <h1>Emergency Food Pantry </h1>
-              <p>New Community Corporation operates  emergency food pantry starting the 16th of every month to aid individuals and families who are in need of food supplies. In addition to canned goods, 
-              the pantry also provides items such as rice, cereal and even frozen, whole chickens. Just a basic ID is required.</p>
-              <ol>
-              
-              <li>Referrals for Basic Needs ~ Residents receive referrals 
-              to acquire necessities such as food, clothing, shelter and health care within the NCC network or other locations.</li>
-              
-              <li>Transportation ~ Social Services provides transportation to the seniors and families who live within NCC network.  
-              The residents are taken on trips to restaurants, museums, shopping centers, and special events.</li>
-              
-              <li>Holiday Needs ~ We collect toys, help supply holiday meals and provide Christmas gifts to NCC families in need.</li>
-              
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
