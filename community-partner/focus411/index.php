@@ -18,12 +18,12 @@ include ('../../header.php');
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="IMG_0550.JPG" alt="First slide">
+          <img src="first.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Focus</h1>
               
-              <p>Services</p>
+           <!--- <p>Services</p>
               
           <p>FOCUS programs are structured under two divisions, Human Services and Youth and Family Development. 
           The Human Services Division provides adult education, employment and training, senior-citizen 
@@ -33,36 +33,36 @@ include ('../../header.php');
 
          The Youth and Family Development Division provides educational services for children before and after school, 
          and during the summer months. It provides counseling for families and children, parenting workshops, 
-          and referral services to families requiring temporary support, such as food, utility and housing assistance.</a></p>
+          and referral services to families requiring temporary support, such as food, utility and housing assistance.</a></p> -->
             </div>
           </div>
         </div>
         <div class="item">
-          <img src="IMG_0531.JPG" alt="Second slide">
+          <img src="second.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
               
-        <h1>Human Service Divsion </h1>
+        <!-- <h1>Human Service Divsion </h1>
         <p>The FOCUS Human Services Division provides an array of services to Essex and Hudson County Residents 
         which include adult basic education, employment & training services, senior's services, emergency assistance, 
         and nutrition programs, The objective of the division is to provide the members of our community the tools 
-        needed to empower, help grow, and become self-sufficient.</p>
+        needed to empower, help grow, and become self-sufficient.</p> -->
               
             </div>
           </div>
             </div>
-           <div class="item">
+        <!--   <div class="item">
           <img src="IMG_0541.JPG" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
               
-         <h1>Youth and Family Division </h1>
+          <h1>Youth and Family Division </h1>
               <p>The FOCUS Youth and Family Development Programs provide quality educational services for children 
               during afterschool hours, and during the summer months. It offers families with access to information, support and resources that help develop 
               and maximize their strengths and potential. The objective of the division is to provide youth & families
               with enriching experiences that broaden their perspectives, improve their socialization, 
               and enhance their skills to improve their overall quality of life.</p>
-              
+              -->
             </div>
           </div>
         </div>
@@ -114,7 +114,7 @@ include ('../../header.php');
           <p class="lead">Our mission is to provide community leadership by developing a variety of services of health and human development initiatives which advances the community towards self sufficiency, growth, empowerment, and a better quality of life.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image">
+          <!--<img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image"> -->
         </div>
       </div>
 
@@ -122,7 +122,7 @@ include ('../../header.php');
 
       <div class="row featurette" id="row2">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_2360.JPG" alt="Generic placeholder image">
+        <!--  <img class="featurette-image img-responsive" src="IMG_2360.JPG" alt="Generic placeholder image"> -->
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">What We Do <span class="text-muted">See for yourself.</span></h2>
@@ -162,7 +162,7 @@ include ('../../header.php');
                 </form></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0771.JPG" alt="Generic placeholder image">
+        <!--  <img class="featurette-image img-responsive" src="IMG_0771.JPG" alt="Generic placeholder image"> -->
         </div>
       </div>
 
