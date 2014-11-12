@@ -138,9 +138,6 @@ include ('../../header.php');
    
                 </form></p>
         </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0771.JPG" alt="Generic placeholder image">
-        </div>
       </div>
 
       <hr class="featurette-divider">
