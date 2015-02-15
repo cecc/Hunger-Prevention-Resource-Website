@@ -6,11 +6,11 @@
 
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
-  font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 body {
+
   margin: 0;
 }
 article,
@@ -292,6 +292,7 @@ textarea {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
+  width:100%;
 }
 a {
   color: #428bca;
@@ -506,7 +507,7 @@ cite {
   text-align: justify;
 }
 .text-muted {
-  color: #999;
+  color: #428bca;
 }
 .text-primary {
   color: #428bca;
@@ -588,6 +589,7 @@ ol ol {
 .list-unstyled {
   padding-left: 0;
   list-style: none;
+  line-height: 25px;
 }
 .list-inline {
   padding-left: 0;
@@ -1093,7 +1095,6 @@ pre code {
 }
 @media (min-width: 992px) {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
-    float: left;
   }
   .col-md-12 {
     width: 100%;
@@ -1111,7 +1112,7 @@ pre code {
     width: 66.66666667%;
   }
   .col-md-7 {
-    width: 58.33333333%;
+    width: auto;
   }
   .col-md-6 {
     width: 50%;
@@ -2090,6 +2091,7 @@ fieldset[disabled] .btn-default.active {
   color: #fff;
   background-color: #428bca;
   border-color: #357ebd;
+   width:auto;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -3746,8 +3748,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   height: 50px;
-  padding: 15px 15px;
-  font-size: 18px;
+  padding: 15px 60px 0px 15px;
+  font-size: 22px;
   line-height: 20px;
 }
 .navbar-brand:hover,
@@ -3949,7 +3951,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-color: #e7e7e7;
 }
 .navbar-default .navbar-brand {
-  color: #777;
+  color: white;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -4031,7 +4033,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: #900;
 }
 .navbar-inverse .navbar-brand {
-  color: #999;
+  color: white;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -4402,7 +4404,7 @@ a.list-group-item.active > .badge,
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 63px;
+    font-size: 54px;
   }
 }
 .thumbnail {
@@ -5790,3 +5792,4 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+

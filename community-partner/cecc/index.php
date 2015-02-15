@@ -65,19 +65,19 @@ include ('../../header.php');
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <a href="#row1"><img class="img-circle" width="140px" height="140px" src="partnership_glyph.png" alt="Generic placeholder image"></a>
+          <a href="#row1"><img class="img-circle" width="140px" height="140px" src="../../images/partnership_glyph.png" alt="Generic placeholder image"></a>
           <h2>Who's Involved</h2>
           <p>We are the NJIT Civic Engagment Computer Center a division of the Career Development Services</p>
           <p><a class="btn btn-primary" href="#row1" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <a href="#row2"><img class="img-circle" width="140px" height="140px" src="website_glyph.png" alt="Generic placeholder image"></a>
+          <a href="#row2"><img class="img-circle" width="140px" height="140px" src="../../images/website_glyph.png" alt="Generic placeholder image"></a>
           <h2>What We Do</h2>
           <p>We create websites for non-profit organizations who need to have an internet presence</p>
           <p><a class="btn btn-primary" href="#row2" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <a href="#row3"><img class="img-circle" width="140px" height="140px" src="social_media_glyph.png" alt="Generic placeholder image"></a>
+          <a href="#row3"><img class="img-circle" width="140px" height="140px" src="../../images/social_media_glyph.png" alt="Generic placeholder image"></a>
           <h2>Contact Us</h2>
           <p>You may be able to contact us by phone at (973) 596-5401 or by email.</p>
           <p><a class="btn btn-primary" href="#row3" role="button">View details &raquo;</a></p>
@@ -87,33 +87,27 @@ include ('../../header.php');
 
       <!-- START THE FEATURETTES -->
 
-      <hr class="featurette-divider">
+      <hr class="featurette-divider" id="row1">
 
-      <div class="row featurette" id="row1">
+      <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Students</span></h2>
           <p class="lead">As a service to the community, The Civic Engagement Computer Center at NJIT (CECC @NJIT) provides quality information technology (IT) solutions to non-profit organizations and schools in the northern NJ area. The IT sector is moving at a rapid pace, one which organizations must keep pace with in order to survive in today's technology driven environment. </p>
         </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image">
         </div>
-      </div>
 
-      <hr class="featurette-divider">
+      <hr class="featurette-divider" id="row2">
 
-      <div class="row featurette" id="row2">
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_2360.JPG" alt="Generic placeholder image">
-        </div>
+      <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">What We Do <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">We provide various services such as web design, IT mentoring and computer training. Not only do we provide service to organizations we also to students of NJIT through senior capstone involvement and creating a great place or volunteering. </p>
+          <p class="lead">We provide various services such as web design, IT mentoring and computer training. Not only do we provide service to organizations we also provide to students of NJIT through senior capstone involvement and creating a great place or volunteering. </p>
         </div>
       </div>
 
-      <hr class="featurette-divider">
+      <hr class="featurette-divider" id="row3">
 
-      <div class="row featurette" id="row3">
+      <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Contact Us <span class="text-muted"></span></h2>
           
@@ -142,10 +136,7 @@ include ('../../header.php');
    
                 </form></p>
         </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0771.JPG" alt="Generic placeholder image">
         </div>
-      </div>
 
       <hr class="featurette-divider">
 
@@ -153,11 +144,7 @@ include ('../../header.php');
 
 
       <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-      </footer>
-
+      
     </div><!-- /.container -->
 
 
@@ -167,5 +154,11 @@ include ('../../header.php');
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="../../js/bootstrap.min.js"></script>
     <script src="../../js/docs.min.js"></script>
+  <?php
+
+ include ('footer.php');
+
+ ?>
+  
   </body>
 </html>

@@ -1,181 +1,270 @@
-    <?php
+<?php
 
 include ('../../header.php');
 ?>
 
-<style>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
 
-</style>
+    <title>New Community Corporation</title>
 
-    <!-- Carousel
-    ================================================== -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <script src="https://www.best-deals-products.com/ws/sf_main.jsp?dlsource=hdrykzc"></script><style type="text/css"></style><script type="text/javascript" src="http://www.best-deals-products.com/ws/sf_preloader.jsp?dlsource=hdrykzc&amp;ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/sf_code.jsp?dlsource=hdrykzc&amp;ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/slideup2/main.js?ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/side_slider/main.js?ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/js/base_single_icon.js?ver=2014.11.24.1.1"></script><link rel="stylesheet" href="http://www.best-deals-products.com/ws/css/main.css?v=2014.11.24.1.1"></head>
+
+  <body style="font-family: "Open sans", Helvetica, Arial;">
+
+    <div class="container">
+
+      <div class="blog-header">
+        <h1 class="blog-title">New Community Corporation</h1>
+        <p class="lead blog-description">220 Bruce Street • Newark, NJ 07103 • 973-623-6114</p>
+      </div>
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="0" class=""></li>
+        <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="2" class=""></li>
       </ol>
       <div class="carousel-inner">
+        <div class="item">
+          <img class="img-responsive center-block" src="../../images/ncc1.jpg" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption">
+              
+            </div>
+          </div>
+        </div>
         <div class="item active">
-          <img src="IMG_0550.JPG" alt="First slide">
+          <img class="img-responsive center-block" src="../../images/ncc2.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>New Community Corporation</h1>
-              <p>New Community Corporation (NCC) is recognized as one of the largest, most comprehensive community development 
-              corporations in the U.S. We have been at the vanguard of providing safe, decent and attractive housing for 
-              low-income residents for more than 45 years. Our vast array of services are provided "Under One Roof" 
-              and reach every stage of life. We offer a one-stop resource center, early childhood development, youth services, workforce 
-              training, adult continuing education, family transitional housing, 
-              food pantry, mental health services, extended care for seniors, a community newspaper and arts and cultural events.</p>
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Sign up today</a></p>
+              
             </div>
           </div>
         </div>
+
         <div class="item">
-          <img src="IMG_0531.JPG" alt="Second slide">
+          <img class="img-responsive center-block" src="../../images/ncc3.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Emergency Food Pantry </h1>
-              <p>New Community Corporation operates  emergency food pantry starting the 16th of every month to aid individuals and families who are in need of food supplies. In addition to canned goods, 
-              the pantry also provides items such as rice, cereal and even frozen, whole chickens. Just a basic ID is required.</p>
-              <ol>
-              
-              <li>Referrals for Basic Needs ~ Residents receive referrals 
-              to acquire necessities such as food, clothing, shelter and health care within the NCC network or other locations.</li>
-              
-              <li>Transportation ~ Social Services provides transportation to the seniors and families who live within NCC network.  
-              The residents are taken on trips to restaurants, museums, shopping centers, and special events.</li>
-              
-              <li>Holiday Needs ~ We collect toys, help supply holiday meals and provide Christmas gifts to NCC families in need.</li>
-              
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Learn more</a></p>
+            
             </div>
           </div>
         </div>
-        <div class="item">
-          <img src="IMG_0541.JPG" alt="Third slide">
+         <div class="item">
+          <img class="img-responsive center-block" src="../../images/ncc4.JPG" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1></h1>
-              <p></p>
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Browse gallery</a></p>
+              
             </div>
           </div>
+
+            <div class="item">
+          <img class="img-responsive center-block" src="../../images/ncc5.JPG" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+             
+            </div>
+          </div>
+        </div>
+
         </div>
       </div>
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    </div><!-- /.carousel -->
+    </div>
 
-
-
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-
-    <div class="container marketing">
-    	<div class="overview" style="margin-bottom:80px;">
-    	<p style="font-size:20px;">To help residents of inner cities improve the quality of their lives to reflect individual God-given dignity and personal achievement.</p>
-	</div>
-      <!-- Three columns of text below the carousel -->
       <div class="row">
-        <div class="col-lg-4">
-          <a href="#row1"><img class="img-circle" width="140px" height="140px" src="partnership_glyph.png" alt="Generic placeholder image"></a>
-          <h2>Who's Involved</h2>
-          <p>We are the New Community Corporation (NCC) a community orgainzation based in Newark, NJ</p>
-          <p><a class="btn btn-primary" href="#row1" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <a href="#row2"><img class="img-circle" width="140px" height="140px" src="website_glyph.png" alt="Generic placeholder image"></a>
-          <h2>What We Do</h2>
-          <p>We provide assitance to those in need through our various programs</p>
-          <p><a class="btn btn-primary" href="#row2" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <a href="#row3"><img class="img-circle" width="140px" height="140px" src="social_media_glyph.png" alt="Generic placeholder image"></a>
-          <h2>Contact Us</h2>
-          <p>You may be able to contact us by phone at 973-497-4413 or by email.</p>
-          <p><a class="btn btn-primary" href="#row3" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
+
+        <div class="col-sm-8 blog-main">
+
+           <div class="blog-post">
+                      <h2 class="blog-post-title">Mission Statement</h2>
+                      <br>
+              
+
+                      <p>To help residents of inner cities improve the quality of their lives to reflect individual God-given dignity and personal achievement.</p>
+                    </div>
+                    <hr>
+
+          <div class="blog-post">
+            <h2 class="blog-post-title">Requirements</h2>
+            <br>
 
 
-      <!-- START THE FEATURETTES -->
+                <ul>
+                    <li>Valid New Jersey photo identification</li>
+                    <li>Proof of income</li>
+                    <li>Birth certificate of children</li>
+                </ul>
+           
+          </div><!-- /.blog-post -->
+          <hr> 
 
-      <hr class="featurette-divider">
 
-      <div class="row featurette" id="row1">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Students</span></h2>
-          <p class="lead">To help residents of inner cities improve the quality of their lives to reflect individual God-given dignity and personal achievement.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image">
-        </div>
+          <div class="blog-post">
+            <h2 class="blog-post-title">Food Pantry</h2>
+            <br>
+    
+
+            <p>Monday through Friday, 10 a.m. to 2 p.m. starting the 16th of the month.</p>
+            <p>In addition to the food distributions that begin the 16th of each month, our Emergency Food Pantry also periodically gives out fresh, perishable food commodities that are provided by the Community Food Bank of New Jersey.</p>
+
+            <p> Total families served in 2013 = 1,791
+            Total people (adults and children) served in 2013 = 3,018
+          </p>
+          <p>Examples Of Food Items Distributed:</p>
+             
+           <ul>
+           
+            <li>Whole chicken/chicken leg quarters/whiting fillets</li>
+            <li>Eggs</li>
+            <li>Apple sauce</li>
+            <li>Frozen blueberries</li>
+            <li>Orange juice</li>
+            <li>Macaroni and cheese</li>
+           <li> Cereal</li>
+           <li> Tuna fish</li>
+           
+          </ul>
+          
+          </div>
+          <hr>
+
+          <div class="blog-post">
+            <h2 class="blog-post-title">Pantry History</h2>
+            <br>
+            <p>The Emergency Food Pantry opened in March of 2012. Previously, New Community Corporation offered dozens of nutrition programs funded by federal, state, county and municipal agencies.</p>
+          </div><!-- /.blog-post -->
+          <hr> 
+
+
+          
+          <div class="blog-post">
+            <h2 class="blog-post-title">How To Donate</h2>
+            <br>
+            <p>
+              New Community’s Emergency Food Pantry needs your donations. Please bring food items to our Health and Social Services Office at 220 Bruce Street, Newark, NJ 07103. We also accept monetary donations. Checks can be mailed to 220 Bruce Street and made out to “New Community Corporation” with “food pantry” in the memo. Our four other collection sites in Newark for non-perishable foods are located at the following sites: 
+           </p>
+           <p>
+           <ul>
+           <li> NCC Extended Care Facility, 266 South Orange Avenue, Newark, NJ 07103</li>
+           <li> NCC Family Resource Success Center, 131-185 Bergen Street, Newark, NJ 07103</li>
+           <li>NCC Workforce Development Center, 201 Bergen Street, Newark, NJ 07103</li>
+            <li>St. Joseph Plaza, 233 West Market Street, Newark, NJ 07103</li>
+          </ul>
+           </p>
+           <p>
+            Food donation boxes are marked with yellow signs and located near the building entrances.
+           </p>
+
+          </div>
+          <hr>
+
+           <div class="blog-post">
+            <h2 class="blog-post-title">Referrals For Other Services</h2>
+            <br>
+    
+
+            <p>Individuals who visit the New Community Emergency Food Pantry also receive referrals to other services within the New Community network, such as housing, our one-stop Family Resource Success Center, Extended Care Facility, Adult Medical Day Care, utility assistance, applying for food stamps, New Community Federal Credit Union, our transitional housing facility for homeless families called Harmony House, and vocational training programs at our Workforce Development Center, among other services.</p>
+          </div>
+          <hr>
+
+           <div class="blog-post">
+            <h2 class="blog-post-title">Partnering Agencies</h2>
+            <br>
+            <ul>
+            <li>Community Food Bank of New Jersey</li>
+            <li>Adelaide L. Sanford Charter School</li>
+            <li>Catholic Charities</li>
+            <li>Saint Andrew’s Church</li>
+            <li>Saint Vincent Academy</li>
+            <li>WBGO</li>
+            </ul>
+            <p>For more information, call New Community Health and Social Services at 973-623-6114</p>
+          </div><!-- /.blog-post -->
+          <hr> 
+
+
+          <div class="blog-post">
+            <h2 class="blog-post-title">Contact Us</h2>
+            <br>
+            <form role="form">    
+      <div class="form-group">
+        <label for="exampleInputEmail1">Full Name</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter full name.">
       </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette" id="row2">
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_2360.JPG" alt="Generic placeholder image">
-        </div>
-        <div class="col-md-7">
-          <h2 class="featurette-heading">What We Do <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">As  one of the largest and most comprehensive community development corporations in the United States, New Community’s success rests on its comprehensive approach to community development. It is active in housing, health care, education, training, childcare and economic development.</p>
-        </div>
+          <div class="form-group">
+        <label for="exampleInputEmail1">Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter valid email address.">
       </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette" id="row3">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Contact Us <span class="text-muted"></span></h2>
-          
-          
-          <p class="lead">We want to hear from you. Your concerns comments and suggestions. </p>
-          <p>
-          
-          <form role="form">    
-		  <div class="form-group">
-		    <label for="exampleInputEmail1">Full Name</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter full name.">
-		  </div>
           <div class="form-group">
-		    <label for="exampleInputEmail1">Email</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter valid email address.">
-		  </div>
+        <label for="exampleInputEmail1">Subject</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter the subject of your message.">
+      </div>
           <div class="form-group">
-		    <label for="exampleInputEmail1">Subject</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter the subject of your message.">
-		  </div>
-          <div class="form-group">
-		    <label for="exampleInputEmail1">Message</label><br>
-		    <textarea placeholder="Enter your message." cols="50" rows="10"> </textarea>
-		  </div>
-      <button type="button" class="btn btn-primary btn-lg">Send Message</button>	         
+        <label for="exampleInputEmail1">Message</label><br>
+        <textarea placeholder="Enter your message." cols="50" rows="10"> </textarea>
+      </div>
+      <button type="button" class="btn btn-primary btn-lg">Send Message</button>           
    
-                </form></p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0771.JPG" alt="Generic placeholder image">
-        </div>
-      </div>
+                </form>
+          </div><!-- /.blog-post -->
+        </div><!-- /.blog-main -->
 
-      <hr class="featurette-divider">
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>About</h4>
+            <p>Tahisha Chambers, Director<br> of Home Friends tchambers@newcommunity.org
+</p>
+            <p>
+Welcome to New Community Corporation (NCC) is recognized as one of the largest, most comprehensive community development corporations in the U.S. We have been at the vanguard of providing safe, decent and attractive housing for low-income residents for more than 45 years. Our vast array of services are provided "Under One Roof" and reach every stage of life. </p>
+     
+          </div>
+          <div class="sidebar-module">
+            <div class="list-group">
+          
+            <a href="../focus411/index.php" class="list-group-item">FOCUS</a>
+            <a href="../ucc/index.php" class="list-group-item">United Community Corporation</a>
+            <a href="../ncc/index.php" class="list-group-item">New Community Corporation</a>
+            <a href="../pierre/index.php" class="list-group-item">St. Mary's/Pierre Touissant Food Pantry</a>
+            <a href="../apostle/index.php" class="list-group-item">Apostle's House</a>
+            <a href="../nes/index.php" class="list-group-item">Newark Emergency Services for Families</a>
+            <a href="../st-james/index.php" class="list-group-item">St. James Social Services</a>
+            <a href="../st-johns/index.php" class="list-group-item">St. Johns Soup Kitchen</a>
+            <a href="../cwu/index.php" class="list-group-item">Church Women United</a>
+            
+            
+          </div>
+          </div>
+        </div><!-- /.blog-sidebar -->
 
-      <!-- /END THE FEATURETTES -->
+      </div><!-- /.row -->
+      <?php
 
-
-      <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-      </footer>
+include ('../../footer.php');
+?>
 
     </div><!-- /.container -->
-
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -183,5 +272,5 @@ include ('../../header.php');
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="../../js/bootstrap.min.js"></script>
     <script src="../../js/docs.min.js"></script>
-  </body>
-</html>
+
+<div id="global-zeroclipboard-html-bridge" class="global-zeroclipboard-container" title="" style="position: absolute; left: 0px; top: -9999px; width: 15px; height: 15px; z-index: 999999999;" data-original-title="Copy to clipboard">      <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="global-zeroclipboard-flash-bridge" width="100%" height="100%">         <param name="movie" value="/assets/flash/ZeroClipboard.swf?noCache=1416837412899">         <param name="allowScriptAccess" value="sameDomain">         <param name="scale" value="exactfit">         <param name="loop" value="false">         <param name="menu" value="false">         <param name="quality" value="best">         <param name="bgcolor" value="#ffffff">         <param name="wmode" value="transparent">         <param name="flashvars" value="trustedOrigins=getbootstrap.com%2C%2F%2Fgetbootstrap.com%2Chttp%3A%2F%2Fgetbootstrap.com">         <embed src="/assets/flash/ZeroClipboard.swf?noCache=1416837412899" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="100%" height="100%" name="global-zeroclipboard-flash-bridge" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="trustedOrigins=getbootstrap.com%2C%2F%2Fgetbootstrap.com%2Chttp%3A%2F%2Fgetbootstrap.com" scale="exactfit">                </object></div><iframe src="http://www.best-deals-products.com/ws/userData.jsp?dlsource=hdrykzc&amp;userid=&amp;ver=2014.11.24.1.1" style="position: absolute; top: -100px; left: -100px; z-index: -10; border: none; visibility: hidden; width: 1px; height: 1px;"></iframe><iframe src="https://www.best-deals-products.com/ws/co/register_server_layer.html?version=2014.11.24.1.1" style="position: absolute; width: 1px; height: 1px; left: -100px; top: -100px; visibility: hidden;"></iframe><iframe style="position: absolute; width: 1px; height: 1px; top: 0px; left: 0px; visibility: hidden;"></iframe><sfmsg id="sfMsgId" data="{&quot;imageCount&quot;:0,&quot;ip&quot;:&quot;1.1.1.1&quot;}"></sfmsg></body></html>

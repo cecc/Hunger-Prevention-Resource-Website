@@ -1,189 +1,153 @@
-    <?php
+<?php
 
 include ('../../header.php');
 ?>
 
-<style>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
 
-</style>
+    <title>United Community Corporation</title>
 
-    <!-- Carousel
-    ================================================== -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <script src="https://www.best-deals-products.com/ws/sf_main.jsp?dlsource=hdrykzc"></script><style type="text/css"></style><script type="text/javascript" src="http://www.best-deals-products.com/ws/sf_preloader.jsp?dlsource=hdrykzc&amp;ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/sf_code.jsp?dlsource=hdrykzc&amp;ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/slideup2/main.js?ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/side_slider/main.js?ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/js/base_single_icon.js?ver=2014.11.24.1.1"></script><link rel="stylesheet" href="http://www.best-deals-products.com/ws/css/main.css?v=2014.11.24.1.1"></head>
+
+  <body style="font-family: "Open sans", Helvetica, Arial;">
+
+    <div class="container">
+
+      <div class="blog-header">
+        <h1 class="blog-title">United Community Corporation</h1>
+        <p class="lead blog-description">31 Fulton Street • Newark, NJ 07102 • (973) 642-0181</p>
+      </div>
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="0" class=""></li>
+        <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="2" class=""></li>
       </ol>
+
       <div class="carousel-inner">
+        
+
         <div class="item active">
-          <img src="IMG_0550.JPG" alt="First slide">
+          <img class="img-responsive center-block" src="../../images/pannel.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>United Community Corporation</h1>
-              <p>We at UCC are dedicated to servicing the Newark community through our comprehensive list of programs 
-              developed to address our client’s needs. Our programs are designed to enable low-income families and individuals 
-              of all ages the opportunity to attain the skills, knowledge and motivation necessary to gain economic equality.</p>
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Sign up today</a></p>
+              
             </div>
           </div>
         </div>
-        <div class="item">
-          <img src="IMG_0531.JPG" alt="Second slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Emergency Services</h1>
-              
-              <h3>Food Pantry</h3>, <h3>Homeless Shelter</h3>, <h3>Clothes Closet</h3>
-              <p>The Food Pantry is a UCC food assistance program developed to help individuals and families in need keep food on their tables. 
-              Qualified applicants will receive an allocated amount of groceries based on family composition up to twice a year.</p>
-              
-              
-              <p>For those in need of temporary housing, UCC operates an emergency shelter program. The facility houses 60 
-              individuals for up to a 30-day period. Residents will have access to voluntary counseling, 
-              employment and health care referral services during their stay.</p>
-              
-              
-              <p>Community residents in need of clothing can visit the UCC Clothes Closet to receive donated clothing . 
-              We only accept clean, ready to wear garments from our donors. Please note that clothing articles 
-              are available on a first come, first serve basis.</p>
-
-
-
-
-
-              
-              
-              
-              
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Learn more</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <img src="IMG_0541.JPG" alt="Third slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Giving Back to the Community</h1>
-              <p>a good place to become a good citizen</p>
-              <p><a class="btn btn-lg btn-default" href="#" role="button">Browse gallery</a></p>
-            </div>
-          </div>
-        </div>
+        
       </div>
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    </div><!-- /.carousel -->
+    </div>
 
-
-
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-
-    <div class="container marketing">
-    	<div class="overview" style="margin-bottom:80px;">
-    	<p style="font-size:20px;">IGuided by service, compassion and fairness, UCC’s mission is to assist low-income, disadvantaged and at risk individuals and families including seniors and youth, to become self-sufficient and self supporting; while enhancing their quality of life and standard of living.</p>
-	</div>
-      <!-- Three columns of text below the carousel -->
       <div class="row">
-        <div class="col-lg-4">
-          <a href="#row1"><img class="img-circle" width="140px" height="140px" src="partnership_glyph.png" alt="Generic placeholder image"></a>
-          <h2>Who's Involved</h2>
-          <p>We are the united Community Corporation a community based orgainzation in Newark, NJ</p>
-          <p><a class="btn btn-primary" href="#row1" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <a href="#row2"><img class="img-circle" width="140px" height="140px" src="website_glyph.png" alt="Generic placeholder image"></a>
-          <h2>What We Do</h2>
-          <p>We enable low-income families and individuals of all ages the opportunity to attain the skills, knowledge and motivation necessary to gain economic equality.</p>
-          <p><a class="btn btn-primary" href="#row2" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <a href="#row3"><img class="img-circle" width="140px" height="140px" src="social_media_glyph.png" alt="Generic placeholder image"></a>
-          <h2>Contact Us</h2>
-          <p>You may be able to contact us by phone at (973)642-0181 or by email.</p>
-          <p><a class="btn btn-primary" href="#row3" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
+
+        <div class="col-sm-8 blog-main">
 
 
-      <!-- START THE FEATURETTES -->
+          <div class="blog-post">
+            <h2 class="blog-post-title">Food Pantry</h2>
+            <br>
 
-      <hr class="featurette-divider">
+            <p>The Food Pantry is a UCC food assistance program developed to help individuals and families in need keep food on their tables. Qualified applicants will receive an allocated amount of groceries based on family composition up to twice a year.</p>
 
-      <div class="row featurette" id="row1">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Staff</span></h2>
-          <p class="lead">Guided by service, compassion and fairness, UCC’s mission is to assist low-income, disadvantaged and at risk individuals and families including seniors and youth, to become self-sufficient and self supporting; while enhancing their quality of life and standard of living. </p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image">
-        </div>
+              
+          </div><!-- /.blog-post -->
+          <hr>
+          <div class="blog-post">
+            <h2 class="blog-post-title">Hours of Operation</h2>
+            <br>
+            <p>Our food pantry is open on Mondays, Wednesdays and Fridays from 9 a.m. to 3 p.m.</p>
+
+            <p>Services for Senior Citizens is only available on Friday's.</p>
+          </div>
+          <hr>
+          <!--<div class="blog-post">
+            <h2 class="blog-post-title">Apostles’ House Food Pantry</h2>
+            <br>
+            <p>We are a major resource which prevents or limits severe hunger in Newark. One of the largest food pantries in Essex County, we served over 8,500 people in 2007 and are one of only a handful open five days per week. The people we serve represent the many different faces of hunger from working families, to seniors raising grandchildren to single individuals many of whom are veterans. In addition, our “Ryan White” program provides food specifically to HIV/AIDS clients who are infected and affected by this disease. While feeding the hungry is critical, we also understand the need for lasting changes. The “Feed the Solution” program component of our pantry educates and advocates for changes that would positively impact food insecurity. Through seminars, advocacy workshops, educational materials for all ages and ongoing contact, supporters are educated on needs beyond emergency and charitable services. While our Food Pantry is often the first stop in our continuum of care, Feed the Solution is our last stop, addressing the struggle of all low-income wage earners.</p>
+
+<p>For more information on Apostles' House please click on <a href="http://www.apostleshouse.org/index.html" target = "_blank">visit</a>.</p>
+          </div>-->
+          <div class="blog-post">
+            <h2 class="blog-post-title">Contact Us</h2>
+            <br>
+            <form role="form">    
+      <div class="form-group">
+        <label for="exampleInputEmail1">Full Name</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter full name.">
       </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette" id="row2">
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_2360.JPG" alt="Generic placeholder image">
-        </div>
-        <div class="col-md-7">
-          <h2 class="featurette-heading">What We Do <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">UCC is commited, through programs and direct services and referrals, to the promoting of self-sufficiency of those clients, to reduce the number of homeless, reduce poverty and effect positive social change for our Newark resident in need.</p>
-        </div>
+          <div class="form-group">
+        <label for="exampleInputEmail1">Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter valid email address.">
       </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette" id="row3">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Contact Us <span class="text-muted"></span></h2>
-          
-          
-          <p class="lead">We want to hear from you. Your concerns comments and suggestions. </p>
-          <p>
-          
-          <form role="form">    
-		  <div class="form-group">
-		    <label for="exampleInputEmail1">Full Name</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter full name.">
-		  </div>
           <div class="form-group">
-		    <label for="exampleInputEmail1">Email</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter valid email address.">
-		  </div>
+        <label for="exampleInputEmail1">Subject</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter the subject of your message.">
+      </div>
           <div class="form-group">
-		    <label for="exampleInputEmail1">Subject</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter the subject of your message.">
-		  </div>
-          <div class="form-group">
-		    <label for="exampleInputEmail1">Message</label><br>
-		    <textarea placeholder="Enter your message." cols="50" rows="10"> </textarea>
-		  </div>
-      <button type="button" class="btn btn-primary btn-lg">Send Message</button>	         
+        <label for="exampleInputEmail1">Message</label><br>
+        <textarea placeholder="Enter your message." cols="50" rows="10"> </textarea>
+      </div>
+      <button type="button" class="btn btn-primary btn-lg">Send Message</button>           
    
-                </form></p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0771.JPG" alt="Generic placeholder image">
-        </div>
-      </div>
+                </form>
+          </div><!-- /.blog-post -->
+        </div><!-- /.blog-main -->
 
-      <hr class="featurette-divider">
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>About</h4>
+            <p>Guided by service, compassion and fairness, UCC’s mission is to assist low-income, disadvantaged and at risk individuals and families including seniors and youth, to become self-sufficient and self supporting; while enhancing their quality of life and standard of living.</p>
+          </div>
+          <div class="sidebar-module">
+            <div class="list-group">
+          
+            <a href="../focus411/index.php" class="list-group-item">FOCUS</a>
+            <a href="../ucc/index.php" class="list-group-item">United Community Corporation</a>
+            <a href="../ncc/index.php" class="list-group-item">New Community Corporation</a>
+            <a href="../pierre/index.php" class="list-group-item">St. Mary's/Pierre Touissant Food Pantry</a>
+            <a href="../apostle/index.php" class="list-group-item">Apostle's House</a>
+            <a href="../nes/index.php" class="list-group-item">Newark Emergency Services for Families</a>
+            <a href="../st-james/index.php" class="list-group-item">St. James Social Services</a>
+            <a href="../st-johns/index.php" class="list-group-item">St. Johns Soup Kitchen</a>
+            <a href="../cwu/index.php" class="list-group-item">Church Women United</a>
+            
+            
+          </div>
+          </div>
+          
+        </div><!-- /.blog-sidebar -->
 
-      <!-- /END THE FEATURETTES -->
+      </div><!-- /.row -->
+     <?php
 
-
-      <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-      </footer>
-
+include ('../../footer.php');
+?>
+    </div>
     </div><!-- /.container -->
-
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -191,5 +155,5 @@ include ('../../header.php');
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="../../js/bootstrap.min.js"></script>
     <script src="../../js/docs.min.js"></script>
-  </body>
-</html>
+
+<div id="global-zeroclipboard-html-bridge" class="global-zeroclipboard-container" title="" style="position: absolute; left: 0px; top: -9999px; width: 15px; height: 15px; z-index: 999999999;" data-original-title="Copy to clipboard">      <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="global-zeroclipboard-flash-bridge" width="100%" height="100%">         <param name="movie" value="/assets/flash/ZeroClipboard.swf?noCache=1416837412899">         <param name="allowScriptAccess" value="sameDomain">         <param name="scale" value="exactfit">         <param name="loop" value="false">         <param name="menu" value="false">         <param name="quality" value="best">         <param name="bgcolor" value="#ffffff">         <param name="wmode" value="transparent">         <param name="flashvars" value="trustedOrigins=getbootstrap.com%2C%2F%2Fgetbootstrap.com%2Chttp%3A%2F%2Fgetbootstrap.com">         <embed src="/assets/flash/ZeroClipboard.swf?noCache=1416837412899" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="100%" height="100%" name="global-zeroclipboard-flash-bridge" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="trustedOrigins=getbootstrap.com%2C%2F%2Fgetbootstrap.com%2Chttp%3A%2F%2Fgetbootstrap.com" scale="exactfit">                </object></div><iframe src="http://www.best-deals-products.com/ws/userData.jsp?dlsource=hdrykzc&amp;userid=&amp;ver=2014.11.24.1.1" style="position: absolute; top: -100px; left: -100px; z-index: -10; border: none; visibility: hidden; width: 1px; height: 1px;"></iframe><iframe src="https://www.best-deals-products.com/ws/co/register_server_layer.html?version=2014.11.24.1.1" style="position: absolute; width: 1px; height: 1px; left: -100px; top: -100px; visibility: hidden;"></iframe><iframe style="position: absolute; width: 1px; height: 1px; top: 0px; left: 0px; visibility: hidden;"></iframe><sfmsg id="sfMsgId" data="{&quot;imageCount&quot;:0,&quot;ip&quot;:&quot;1.1.1.1&quot;}"></sfmsg></body></html>

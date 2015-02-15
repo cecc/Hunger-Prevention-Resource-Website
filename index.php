@@ -1,86 +1,214 @@
+﻿<?php
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+include('header.php');
 
-    <title>End Hunger NJ - Civic Engagement Computer Center</title>
+?>
 
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+      <div class="row row-offcanvas row-offcanvas-right">
 
-    <!-- Custom styles for this template -->
-    <link href="css/cover.css" rel="stylesheet">
+        <div class="col-xs-12 col-sm-9">
+          <p class="pull-right visible-xs">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+          </p>
 
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
-
-  <body>
-
-    <div class="site-wrapper">
-
-      <div class="site-wrapper-inner">
-
-        <div class="cover-container">
-
-          <div class="masthead clearfix">
-            <div class="inner">
-              <h3 class="masthead-brand">End Hunger in NJ</h3>
-              <ul class="nav masthead-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="welcome.php">Community Partners</a></li>
-                <li><a href="#">Contact</a></li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="inner cover">
-            <h1 class="cover-heading">End Hunger in New Jersey</h1>
-            <p class="lead">
-            
-    			In 2012, 49.0 Million Americans lived in a food-insecure household
-    				of that there were 33.1 million were adults and 15.9 million were children. In
-    				the same year, 59.4 percent of food insecure households particiapted in at least
-    				one of the three major Federal food assistance programs: Supplementals Nutrition 
-    				Assistance Program (formerly Food Stamp Program), The National School Lunch Program,
-    				and the Special Supplemental Nutrition Program for Women, Infants and Children.     
-            </p>            
-            <p class="lead">
-            	Click on Learn More to join forces with your local community partner in Ending Hunger in NJ.  
-            </p>
-            <p class="lead">
-              <a href="welcome.php" class="btn btn-lg btn-default">Learn more</a>
-            </p>
-          </div>
-
-          <div class="mastfoot">
-            <div class="inner">
-            </div>
-          </div>
+                <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-lg-4">
+                         <img src="images/foodPantry2.jpg" width="100%"  />
 
         </div>
+        <div class="col-lg-8">
 
+            <h1>Hunger Prevention Resources</h1>
+            <p>Emphasizing a coordinated one-stop service system that provides a wide range of resources for families by providing:</p>
+            <ul>
+              <li>Enhanced communication network for non-profits and food pantries in Newark and its surrounding areas.</li>
+              <li>Unlimited access to hunger prevention information.</li>
+              <li>Adequate and substantial resources for disadvantaged families.</li>
+            </ul>
+
+        
+            <h2>Enter your Zip Code to Get Started.</h2>
+            <form action="community-partner/">
+              <input type="text" class="form-control" id="zipcode" placeholder="Enter Zip Code" name="zip">
+              <br>
+              <button type="submit" class="btn btn-primary btn-lg btn-block" formaction="http://cecc.njit.edu/su14/community-partner/?">Find Resources Now</button>
+            </form>
+        </div>
       </div>
+         
+          <hr>
 
-    </div>
+          
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/docs.min.js"></script>
-  </body>
-</html>
+
+          <div class="row">
+             <div class="col-6 col-sm-6 col-lg-4">
+              <h2>New Community Corporation</h2>
+              <p>New Community Corporation (NCC) is recognized as one of the largest, most comprehensive community development corporations in the U.S.  </p>
+              <p><a class="btn btn-default" href="community-partner/ncc/index.php" role="button">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>St. James Social Services</h2>
+              <p>St. James Social Service Corporation is the umbrella organization for the social outreach programs of St. James African Methodist Episcopal Church which is located in the Central Ward of Newark, New Jersey. </p>
+              <p><a class="btn btn-default" href="community-partner/st-james/" role="button">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>St. John's Soup Kitchen</h2>
+              <p>In our kitchen, we have hundreds of wonderful volunteers preparing and serving up over 100,000 meals each year. Started back in the mid 1970s, we began serving sandwiches to the few who came to our door.</p>
+              <p><a class="btn btn-default" href="community-partner/st-johns/" role="button">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>Newark Emergency Services for Families</h2>
+              <p>To stabilize families and individuals in crisis, especially the working poor, homeless and those in financial need and provide them with financial support and life skills training to live on their own.  </p>
+              <p><a class="btn btn-default" href="community-partner/nes/" role="button">View details &raquo;</a></p>
+            </div><!--/span--> 
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>United Community Corporation</h2>
+              <p>We at UCC are dedicated to servicing the Newark community through our comprehensive list of programs developed to address our client’s needs. </p>
+              <p><a class="btn btn-default" href="community-partner/ucc/index.php" role="button">View details &raquo;</a></p>
+            </div><!--/span-->
+              <div class="col-6 col-sm-6 col-lg-4">
+              <h2>St. Mary's/Pierre Toussaint Food Pantry</h2>
+              <p>St. Mary's/Pierre Toussaint Food Panty has been serving the needy of Newark for the past 23 years. As an emergency food assistance program we offer food assistance at the end of each month to registered clients and of course we respond to emergency situations whenever we are able. </p>
+              <p><a class="btn btn-default" href="community-partner/pierre/index.php" role="button">View details &raquo;</a></p>
+            </div><!--/span-->
+               
+          
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>Apostle's House</h2>
+              <p>The Apostles’ House Food Pantry is a major resource, which prevents or limits severe hunger in Newark. One of the largest food pantries in Essex County, we served over 8,500 people in 2007 and are one of only a handful open five days per week. </p>
+              <p><a class="btn btn-default" href="community-partner/apostle/" role="button">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>FOCUS</h2>
+              <p>The FOCUS Human Services Division provides an array of services to Essex and
+              Hudson County Residents which include adult basic education, employment & training services, senior's services, emergency assistance, and nutrition programs.</p>
+              <p><a class="btn btn-default" href="community-partner/focus411/index.php" role="button">View Details &raquo;</a></p>
+            </div><!--/span-->  
+                   
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>Church Women United</h2>
+              <p></p>
+              <p><a class="btn btn-default" href="community-partner/cwu/index.php" role="button">View details &raquo;</a></p>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+          <!--
+          <div class="row">
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>FOCUS</h2>
+              <p>The FOCUS Human Services Division provides an array of services to Essex and
+              Hudson County Residents which include adult basic education, employment & training services, senior's services, emergency assistance, and nutrition programs.</p>
+              <p><a class="btn btn-default" href="community-partner/focus411/index.php" role="button">View Details &raquo;</a></p>
+            </div><!-/span-->  
+        <!--    <div class="col-6 col-sm-6 col-lg-4">
+              <h2>St. James Social Services</h2>
+              <p>St. James Social Service Corporation is the umbrella organization for the social outreach programs of St. James African Methodist Episcopal Church which is located in the Central Ward of Newark, New Jersey. </p>
+              <p><a class="btn btn-default" href="community-partner/st-james/" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>St. John's Soup Kitchen</h2>
+              <p>In our kitchen, we have hundreds of wonderful volunteers preparing and serving up over 100,000 meals each year. Started back in the mid 1970s, we began serving sandwiches to the few who came to our door.</p>
+              <p><a class="btn btn-default" href="community-partner/st-johns/" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>United Community Corporation</h2>
+              <p>We at UCC are dedicated to servicing the Newark community through our comprehensive list of programs developed to address our client’s needs. </p>
+              <p><a class="btn btn-default" href="community-partner/ucc/index.php" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>New Community Corporation</h2>
+              <p>New Community Corporation (NCC) is recognized as one of the largest, most comprehensive community development corporations in the U.S. We have been at the vanguard of providing safe, decent and attractive housing for low-income residents for more than 45 years.  </p>
+              <p><a class="btn btn-default" href="community-partner/ncc/index.php" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>St. Mary's/Pierre Touissant Food Pantry</h2>
+              <p>St. Mary's/Pierre Toussaint Food Panty has been serving the needy of Newark for the past 23 years. As an emergency food assistance program we offer food assistance at the end of each month to registered clients and of course we respond to emergency situations whenever we are able. </p>
+              <p><a class="btn btn-default" href="community-partner/pierre/index.php" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>Apostle's House</h2>
+              <p>The Apostles’ House Food Pantry is a major resource, which prevents or limits severe hunger in Newark. One of the largest food pantries in Essex County, we served over 8,500 people in 2007 and are one of only a handful open five days per week. </p>
+              <p><a class="btn btn-default" href="community-partner/apostle/" role="button">View details &raquo;</a></p>
+            </div>
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>Newark Emergency Services for Families</h2>
+              <p>To stabilize families and individuals in crisis, especially the working poor, homeless and those in financial need and provide them with financial support and life skills training to live on their own.  </p>
+              <p><a class="btn btn-default" href="community-partner/nes/" role="button">View details &raquo;</a></p>
+            </div><           
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>Church Women United</h2>
+              <p></p>
+              <p><a class="btn btn-default" href="community-partner/cwu/index.php" role="button">View details &raquo;</a></p>
+            </div>
+          -->
+
+
+
+
+
+            <!--/span-->
+            <!--<div class="col-6 col-sm-6 col-lg-4">
+              <h2></h2>
+              <p></p>
+              <p><a class="btn btn-default" href="community-partner/st-johns/" role="button">View details &raquo;</a></p>
+            </div>--><!--/span-->
+            <!--<div class="col-6 col-sm-6 col-lg-4">
+              <h2></h2>
+              <p></p>
+              <p><a class="btn btn-default" href="community-partner/cwu/" role="button">View details &raquo;</a></p>
+            </div>--><!--/span-->
+          </div><!--/row-->
+        </div><!--/span-->
+
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+        
+          <div class="list-group" >
+          <img src="images/Just_NJ.png" width="100%" >
+            <a href="community-partner/focus411/index.php" class="list-group-item">FOCUS</a>
+            <a href="community-partner/ucc/index.php" class="list-group-item">United Community Corporation</a>
+            <a href="community-partner/ncc/index.php" class="list-group-item">New Community Corporation</a>
+            <a href="community-partner/pierre/index.php" class="list-group-item">St. Mary's/Pierre Touissant Food Pantry</a>
+            <a href="community-partner/apostle/index.php" class="list-group-item">Apostle's House</a>
+            <a href="community-partner/nes/index.php" class="list-group-item">Newark Emergency Services for Families</a>
+            <a href="community-partner/st-james/index.php" class="list-group-item">St. James Social Services</a>
+            <a href="community-partner/st-johns/index.php" class="list-group-item">St. Johns Soup Kitchen</a>
+            <a href="community-partner/cwu/index.php" class="list-group-item">Church Women United</a>
+            <a href="#" class="list-group-item">Community Organization</a>
+            
+          </div>
+      <div style="text-align:center">
+          <a href="http://www.njit.edu/" target="_blank"><img src="images/njit-logo.jpg" width="220px" /></a>
+          
+          <a href="http://wakefern.shoprite.com/" target="_blank"><img src="images/wakefern-logo.png" width="220px" /></a>
+          
+          <a href="http://www.feedingbyreading.org/home.aspx" target="_blank"><img src="images/feedingreading.png" width="220px"  /></a>
+          </div>
+
+
+        </div><!--/span-->
+      </div><!--/row-->
+
+ <?php
+
+ include ('footer.php');
+
+ ?>

